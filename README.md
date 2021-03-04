@@ -1,5 +1,5 @@
 # webdevelopment
-<h1>Useful Links...</h1>
+<h1>Useful Links....</h1>
 <ul>   
 <li><a href = "https://www.laurencegellert.com/2012/08/what-is-a-full-stack-developer/" target = "_blank">What is a Full Stack developer?</a></li>
 
