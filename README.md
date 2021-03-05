@@ -24,3 +24,18 @@
 <a href = "https://www.sitepoint.com/most-popular-frontend-frameworks-compared/">The 5 Most Popular Front-end Frameworks Compared</a>
 </li>
 </ul>
+<h3>Bootstrap grid system</h3>
+<ul>
+<li><a href = "http://getbootstrap.com/docs/4.0/layout/grid/">Bootstrap Grid System</a></li>
+<li><a href = "http://blog.teamtreehouse.com/modern-field-guide-responsive-web-design">The 2014 Guide to Responsive Web Design </a></li>
+</ul>
+<p>More details about the d-none and d-sm-block CSS  classes can be found at <a href = "http://getbootstrap.com/docs/4.0/utilities/display/">here</a></p>
+<h2>General Resources</h2>
+<ul>
+<li><a href = "https://en.wikipedia.org/wiki/Ideation_(creative_process)">Ideation (creative process)</a></li>
+</ul>
+<h2>Volunteer You services</h2>
+<ul>
+<li><a href = "http://www.volunteermatch.org/">VolunteerMatch.org</a></li>
+<li><a href = "https://www.freecodecamp.com/">Free Code Camp</a></li>
+</ul>
